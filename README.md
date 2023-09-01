@@ -1,3 +1,3 @@
 # RainbowStar
 
-TODO 
+TODO: Project description.
