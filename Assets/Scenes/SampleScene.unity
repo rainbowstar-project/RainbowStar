@@ -345,5 +345,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8f2c9d1b1e62dffbad986f77c31c0da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nodePrefab: {fileID: 0}
+  nodePrefab: {fileID: 4831418748720398039, guid: 0ef6311fb8550b69b9fe8d18b46535ec, type: 3}
   mazeSize: {x: 10, y: 10}
