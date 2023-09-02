@@ -8,8 +8,8 @@ public class MazeGenerator : MonoBehaviour
     [SerializeField] Vector2Int mazeSize; 
 
     private void Start() {
-        GenerateMazeInstant(mazeSize);
-        // StartCoroutine(GenerateMaze(mazeSize));
+        // GenerateMazeInstant(mazeSize);
+        StartCoroutine(GenerateMaze(mazeSize));
     }
 
     void GenerateMazeInstant(Vector2Int size) {
